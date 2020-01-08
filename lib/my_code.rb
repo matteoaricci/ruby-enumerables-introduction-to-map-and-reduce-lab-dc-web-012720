@@ -6,7 +6,7 @@ def map_to_negativize(source_array)
    arr[i] = source_array[i] * -1
    i += 1 
   end 
-arr
+puts arr
 end
 
 def map_to_no_change(source_array)
